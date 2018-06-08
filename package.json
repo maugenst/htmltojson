@@ -1,0 +1,24 @@
+{
+  "name": "htmltojson",
+  "version": "0.0.1",
+  "description": "Convert HTML page parts into JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maugenst/htmltojson.git"
+  },
+  "keywords": [
+    "Convert",
+    "HTML",
+    "JSON"
+  ],
+  "author": "Marius Augenstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maugenst/htmltojson/issues"
+  },
+  "homepage": "https://github.com/maugenst/htmltojson#readme"
+}
